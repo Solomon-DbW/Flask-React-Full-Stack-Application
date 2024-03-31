@@ -1,0 +1,7 @@
+pip install Flask, Flask-SQLAlchemy and flask-cors
+
+Type [cd backend] in terminal and type {python main.py}
+
+Split terminal and type [cd frontend] and then type [npm run dev] to run
+
+Click on http://localhost:5173/ to access webpage
